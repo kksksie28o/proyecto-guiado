@@ -16,4 +16,5 @@ María Guatibonza: diseñador
 
 
 2. Metodología de diseño:
+
 Se utilizará el enfoque de diseño participativo con el fin de hacer un proyecto colectivo con los miembros del equipo, mediante diferentes roles para aprovechar las cualidades de cada integrante en pro del proyecto.
