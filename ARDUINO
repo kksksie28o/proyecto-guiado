@@ -1,5 +1,10 @@
 **¿Qué es arduino?*
 Es una  compañia de codigo abierto y hardware abierto asi como un proyecto que diseña placa de desarrolo de hadware   
-para construir  dispositivos y dispositivos interactivos.
+para construir  dispositivos y dispositivos interactivos, este proyecto creados por unos profesores italianos esta basado en una placa con un microcontrolaror este su proposito basicamnete es emplear trabajos basicos por desirlo asi aunque tiene su grado complejidad uno de los ejemplos mas claros y mencionados en clase es que esta placa puede controlar los interuptores de una casa completa. 
 ** ¿En que consiste el Hardware de arduino?  **
 Arduino tiene Hardware libre , sus diseños de referencia estan disponibles en el sitio web de arduino
+tomado de lo dicho en clase existen varias clases de arduinos nosotros hemos observado el arduino MEGA y el UNO.
+https://www.google.com/search?q=arduino&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjOtoOIuKPgAhWws1kKHXjACFUQ_AUIDigB&biw=1242&bih=597#imgrc=CklyG0hSEHIhcM:
+electricidad o potencia - USB  / Conector de Adaptador:la plata arduino necesita abastecerse de electricidad para ello tiene dos formas una de ellas y la mas utilizada es por medio del cable USB o un cable de corriente electrica con su respectivo adapatdor, por el canle USB tambien se trasmite el codigo de arduino para poder emplear la funcion correctamente.algo importante para resaltar es que la capacidad del aurdino en voltaje es menor a 20voltios ya que si se llega a esta carga la placa se puede estar dañando o quemando respectivamente lo idela es estar entre los 5volteos a 12 maximo 
+Pines:los pines en la placa Arduino es donde se conectan los cables de un circuito el arduino tiene varios tipos diferentes de entradas cada uno de las cuales esta marcado en el tablero y utilizan para diferentes funciones
+GND:abreviatura de hay varios pines GND en el arduino cualquiera de los cuales pueden ser utilizados para conectar a tierra el circuito
