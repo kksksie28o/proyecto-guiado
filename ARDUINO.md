@@ -1,7 +1,14 @@
 **¿Qué es arduino?** 
 
+Es una compañía de código abierto y hardware abierto así como un proyecto que diseña placa de desarrollo de hadware , Su propósito es utilizar trabajos sencillos que no requieren gran capacidad
+¿como funciona el hardware de arduino?
 
-**¿Cómo funciona arduino?** 
+Arduino tiene hardware libre, sus diseños de referencia están disponibles en el sitio web de arduino, basada en una placa con un microcontrolador y un entorno de desarrollo, diseñada para facilitar el uso de la electrónica en proyectos multiples.
+
+¿cal es el lenguaje de programacion de arduino? que esta disponible es  un pagina web.
+
+Lenguaje de programación C++ El lenguaje de programación de Arduino está basado en C++
+**¿Cómo funciona arduino
 
 * Arduino es una plataforma  de código abierto, basada en software libre, flexible y fácil de utilizar para los creadores y cualquier tipo de perosna que desee hacer algun proyecto. Esta plataforma permite crear diferentes tipos de microordenadores de una sola placa, a los que la comunidad de creadores pueden darles diferentes tipos de uso.
 
