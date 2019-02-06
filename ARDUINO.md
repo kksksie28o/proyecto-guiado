@@ -48,3 +48,51 @@ Lo negro con todas las patas de metal es un circuito integrado (IC, por sus sigl
 *Regulador de Voltaje 
 
 Esto no es realmente algo que se puede (o debe) interactuar con el Arduino. Pero es potencialmente útil para saber que está ahí y para qué sirve. El regulador de voltaje hace exactamente lo que dice - que controla la cantidad de tensión que se deja en la placa Arduino. Piense en ello como una especie de guardián; se dará la espalda a una tensión adicional que podría dañar el circuito. Por supuesto, tiene sus límites, por lo que no conecta tu Arduino a nada superior a 20 voltios.
+
+*¿Que hace?**
+
+El hardware y el software de Arduino fue diseñado para artistas, diseñadores, aficionados y cualquier persona interesada en la creación de proyectos electronicos.
+Arduino puede interactuar con botones, LEDs, motores, altavoces, unidades de GPS, cámaras y hasta una casa en funciones amplias y de poca memoria. eg: Arduino puede controlar las luces y apartos electronicos de una casa con un codigo en el cual se le delimitan funciones basicas aunque ya hay aparatos para prender las luces con un control arduino se puede controlar desde el propio celular facilitando el trabajo de estar prendiendo y apagando las luces.
+Algunos modelos de arduinos son:Arduino UNO, Arduino Leonardo, Arduino Due, Arduino Yún, Arduino Robot, Arduino Esplora, Arduino Mega ADK, Arduino Ethernet, Arduino Mega 2560, Arduino Mini, Arduino Nano, Arduino Pro Mini, Arduino Pro, Arduino Micro, Arduino Fio, LilyPad Arduino USB, LilyPad Arduino Simple, LilyPad Arduino SimpleSnap, LilyPad Arduino.
+
+Arduino UNO:	caracteristicas
+Microcontrolador: ATmega328
+-Voltaje de funcionamiento: 5 V
+-Pines I/O digitales: 14 (de los cuales 6 proveen salida PWM)
+-Pines de entradas análogas: 6
+-Corriente DC por cada pin I/O: 40 mA
+-Corriente DC en el pin de 3.3 V: 50 mA
+-Memoria Flash: 32 KB (ATmega328) de los cuales 0.5 KB son utilizados por el bootloader
+-SRAM: 2 KB (ATmega328)
+-EEPROM: 1 KB (ATmega328)
+-Velocidad de reloj: 16 MHz
+
+Arduino Robot:caracteristicas
+-Microcontrolador: ATmega32u4
+-Voltaje de funcionamiento: 5 V
+-Pines I/O digitales: 5
+-Canales PWM: 6
+-Canales de entradas análogas: 4 (de los pines digitales I/O)
+-Canales (multiplexados) de entradas análogas: 8
+-Corriente DC por cada pin I/O: 40 mA
+-Memoria Flash: 32 KB (ATmega32u4) de los cuales 4 KB son utilizados por el bootloader
+-SRAM: 2 KB (ATmega32u4)
+-EEPROM (interno): 1 KB (ATmega32u4)
+-EEPROM (externo): 512 KB (I2C)
+-Velocidad de reloj: 16 MHz
+-Teclado: 5 teclas
+-Perilla: Potenciómetro conectado a un pin análogo
+-LCD a color: Comunicación SPI
+-Lector de tarjetas SD: Para tarjetas formateadas FAT16
+
+Arduino Mega ADK:caracteristicas
+-Microcontrolador: ATmega2560
+-Voltaje de funcionamiento: 5 V
+-Pines I/O digitales: 54 (de los cuales 15 proveen salida PWM)
+-Pines de entradas análogas: 16
+-Corriente DC por cada pin I/O: 40 mA
+-Corriente DCen el pin de 3.3 V: 50 mA
+-Memoria Flash: 256 KB de los cuales 8 KB son utilizados por el bootloader
+-SRAM: 8 KB
+-EEPROM: 4 KB
+-Velocidad de reloj: 16 MHz
