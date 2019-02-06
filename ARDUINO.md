@@ -1,4 +1,6 @@
 **¿Qué es arduino?** 
+
+
 **¿Como funsiona arduino?. 
 +Arduino es una plataforma  de código abierto, la cual está basada en software libre, flexible y fácil de utilizar para los creadores y cual quier tipo de perosnas que quiera hacer algun proyecto. Esta plataforma permite crear diferentes tipos de microordenadores de una sola placa a los que la comunidad de creadores puede darles diferentes tipos de uso.
 +En estos casos la placa Arduino se conecta con una serie de sensores como entrada y la salida se conecta a un ordenador u otro dispositivo capaz de ejecutar tareas complejas
