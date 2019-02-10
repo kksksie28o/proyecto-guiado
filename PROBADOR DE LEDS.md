@@ -1,5 +1,5 @@
 # Probador de  Leds
 ## Prototipo
-###  Diagrama Pictorico
-### Diagrama Esquematico
-### Montaje
+##  Diagrama Pictórico
+## Diagrama Esquemático
+## Montaje
