@@ -5,3 +5,4 @@
 ## Diagrama Esquemático
 ![](https://github.com/kksksie28o/proyecto-guiado/blob/master/images/esquematico.png)
 ## Montaje 
+![](https://github.com/kksksie28o/proyecto-guiado/blob/master/images/construccion.jpeg)
