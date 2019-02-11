@@ -3,3 +3,18 @@
 
 
 ## Diagrama Esquematico
+
+
+## Montaje
+
+
+## Software
+
+
+## Objetivo
+
+
+## Materiales
+
+
+## Construccion
