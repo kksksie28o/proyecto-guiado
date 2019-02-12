@@ -1,20 +1,20 @@
-# proyecto-guiado
+## PROYECTO-GUIADO ##
 
-1. **INTEGRANTES**
+**Integrantes**
 
-Laura Matamoros: líder del equipo 
+* Laura Matamoros: Líder de equipo
 
-Julián Sánchez: programador 
+* Julián Sánchez: Programador 
 
-Sofia Perico: programador 
+* Sofia Perico: Programador 
 
-Kevin Albarracín: constructor
+* Kevin Albarracín: Constructor
 
-Laura Manrique: diseñador 
+* Laura Manrique: Diseñador 
 
-María Guatibonza: diseñador 
+* María Guatibonza: Diseñador 
 
 
-2. **Metodología de diseño:**
+**Metodología de Diseño**
 
 Se utilizará el enfoque de diseño participativo con el fin de hacer un proyecto colectivo con los miembros del equipo, mediante diferentes roles para aprovechar las cualidades de cada integrante en pro del proyecto.
