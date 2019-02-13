@@ -27,4 +27,4 @@ El objetivo para la realizacion de este circuito es la comprbacion y uso correct
 * Para conectar el sensor,  usamos un jumper en VCC (5V) y lo conectamos a positivo en el protoboard, luego conectamos OUT (salida) a otro de los pines digitales en la placa y conectamos GND a tierra.
 ## Código 
 Que se debe subir a la placa de arduino
-![Atributo Alt]()
+![Código del sensor](https://github.com/kksksie28o/proyecto-guiado/blob/master/documentos/c_digo.ino.ino)
