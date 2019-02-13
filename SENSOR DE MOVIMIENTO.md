@@ -21,8 +21,10 @@ El objetivo para la realizacion de este circuito es la comprbacion y uso correct
 * Placa Arduino Mega 2560
 * LEDs
 * Jumpers
-## Construccion
-
+## Construcción
 * Se conecta la entrada GND de la placa con el cable para timbre  a negativo o a tierra y positivo a un pin digital  y al protoboard.
 * Luego se coloca un Led al protoboard y la resistencia de 220 ohms  al catado y a tierra y un conector ente el anodo y otro de los pines digitales.
 * Para conectar el sensor,  usamos un jumper en VCC (5V) y lo conectamos a positivo en el protoboard, luego conectamos OUT (salida) a otro de los pines digitales en la placa y conectamos GND a tierra.
+## Código 
+Que se debe subir a la placa de arduino
+![Atributo Alt]()
