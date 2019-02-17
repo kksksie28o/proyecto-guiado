@@ -18,3 +18,4 @@ Realizar un sensor de proximidad mediante el sensor ultrasónico HC-SR04, la pro
 * Luego se colocan 5 LEDS al protoboard y 5 resistencia de 220 ohms  al cátodo y a tierra y un conector ente el ánodo y otro de los pines digitales del arduino . Los LEDS van en los pines digitales # 4,5,8,6,7 respectivamente 
 ## Montaje
 ## Software
+Código que se debe subir a la placa de arduino ![Código sensor](https://github.com/kksksie28o/proyecto-guiado/blob/master/documentos/echo.ino)
