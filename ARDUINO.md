@@ -1,6 +1,6 @@
 **¿Qué es arduino?** 
 
-Es una compañía de código abierto y hardware abierto así como un proyecto que diseña placa de desarrollo de hadware. Su propósito es utilizar trabajos sencillos que no requieren gran capacidad.
+Es una compañía de código abierto y hardware abierto así como un proyecto que diseña placa de desarrollo de hadware. Su propósito es utilizar trabajos sencillos que no requieren gran capacidad y demostrar la funcionalidad.
 
 **¿Cómo funciona el hardware de arduino?**
 
