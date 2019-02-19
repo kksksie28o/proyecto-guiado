@@ -15,6 +15,6 @@
 * María Guatibonza: Diseñador 
 
 
-## Metodología de Diseño
+## Metodología de Dise
 
-Se utilizará el enfoque de diseño participativo con el fin de hacer un proyecto colectivo con los miembros del equipo, mediante diferentes roles para aprovechar las cualidades de cada integrante en pro del proyecto.
+Se utilizará el enfoque de diseño participativo con el fin de hacer un proyecto colectivo con los miembros del equipo, mediante diferentes roles para aprovechar las cualidades de cada integrante en pro del proyecto y su desarrollo.
