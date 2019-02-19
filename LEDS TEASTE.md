@@ -16,7 +16,7 @@ El objetivo para realización de este  sistema fue una prueba de la funcionalida
 * Cable de Timbre
 * Protoboard
 
-(Los cables de UTP fueron reemplazados por Cables de Timbre debido cuestiones de calidad y diseño).
+(Los cables de UTP fueron reemplazados por Cables de Timbre debido cuestiones de mejorar la resistencia del diseño.)
 
 **Construccion**
 
