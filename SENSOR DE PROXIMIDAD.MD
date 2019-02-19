@@ -1,8 +1,8 @@
-## SENSOR DE SONIDO
+## SENSOR DE PROXIMIDAD
 ## Diagrama Pictórico
 ![](https://github.com/kksksie28o/proyecto-guiado/blob/master/images/pictoricoLED3.png)
 ## Diagrama Esquemático
-![](https://github.com/kksksie28o/proyecto-guiado/blob/master/images/pictoricoLED3.png)
+![](https://github.com/kksksie28o/proyecto-guiado/blob/master/images/esquematicoo3.png?raw=true)
 ## Objetivo
 Realizar un sensor de proximidad mediante el sensor ultrasónico HC-SR04, la proximidad de los materiales se demostrara en la proximidad de un objeta con respecto a el sensor y dando como concecuencia que los led se enciendan.
 
