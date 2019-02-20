@@ -22,4 +22,4 @@ Realizar un sensor de proximidad mediante el sensor ultrasónico HC-SR04, la pro
 ## Montaje y funcionamiento
 ![Vídeo del funcionamiento](https://github.com/kksksie28o/proyecto-guiado/blob/master/images/e941e3cc-f719-43ad-8be5-4d70ca905109.mp4)
 ## Software
-Código que se debe subir a la placa de arduino ![Código sensor](https://github.com/kksksie28o/proyecto-guiado/blob/master/documentos/echo.ino)
+Código que se debe subir a la placa de arduino ![Código sensor](https://github.com/kksksie28o/proyecto-guiado/blob/master/Code/echo/echo.ino)
