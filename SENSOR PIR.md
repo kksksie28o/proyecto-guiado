@@ -30,4 +30,4 @@ El objetivo para la realizacion de este circuito es la comprbacion y uso correct
 ## Software
 
 Código que se debe subir a la placa de arduino
-![Código del sensor](https://github.com/kksksie28o/proyecto-guiado/blob/master/documentos/c_digo.ino.ino)
+![Código del sensor](https://github.com/kksksie28o/proyecto-guiado/blob/master/Code/c_digo.ino/c_digo.ino.ino)
